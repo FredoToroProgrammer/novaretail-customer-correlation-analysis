@@ -108,11 +108,11 @@ Main variables analyzed:
 
 # 💼 Business Recommendations
 
-✔ Increase purchase frequency
-✔ Improve conversion funnels
-✔ Optimize advertising ROI
-✔ Enhance premium offering
-✔ Segment users by behavior
+- ✔ Increase purchase frequency
+- ✔ Improve conversion funnels
+- ✔ Optimize advertising ROI
+- ✔ Enhance premium offering
+- ✔ Segment users by behavior
 
 ---
 
