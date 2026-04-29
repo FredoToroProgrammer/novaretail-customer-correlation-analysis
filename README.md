@@ -20,13 +20,13 @@ This project uses exploratory correlation analysis to uncover the strongest beha
 
 ---
 
-# 🎯 Objectives
+## 🎯 Objectives
 
-✅ Identify variables associated with revenue
-✅ Compare behavioral vs demographic factors
-✅ Use proper statistical methods
-✅ Generate actionable business insights
-✅ Build a portfolio-ready analytics project
+- ✅ Identify variables associated with revenue
+- ✅ Compare behavioral vs demographic factors
+- ✅ Use proper statistical methods
+- ✅ Generate actionable business insights
+- ✅ Build a portfolio-ready analytics project
 
 ---
 
